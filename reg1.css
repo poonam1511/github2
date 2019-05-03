@@ -1,0 +1,17 @@
+<style>
+             div{
+                margin-top: 10px; box-shadow: 1px 1px 10px black; padding: 10px;background-color: graytext;width: 75%;
+                border-radius: 10px;margin-left: 15%;display: inline-block;
+            }
+            label{
+                 color: yellow; font-weight: bold; font-size: 17px; font-family:Arial;margin-left: 5%;
+            }
+            input{
+                 color: blue;font-weight: bold;font-size: 15px;font-family: Arial;border: 1px solid black;border-radius: 5px;
+                 box-shadow: 1px 1px 3px black;width: 500px;padding: 3px 5px;margin: 10px 0px 10px 150px;display:block;
+            }
+            input[type="submit"]{
+                background-color: blue; color: white; padding: 2px;
+            }
+            span{ color: red; padding: 10px;}
+        </style>
